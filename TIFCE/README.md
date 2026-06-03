@@ -6,6 +6,8 @@ Framework reference: [TIFCE (TI Feed Content Evaluation)](https://zenodo.org/rec
 
 This project packages a Microsoft Sentinel workbook and the underlying KQL queries so teams can deploy and review TI feed quality in a repeatable way across environments.
 
+Last update: June 3, 2026 (v1.0)
+
 ## Why it matters
 
 Threat intelligence programs often accumulate overlapping feeds with unclear value. That creates operational noise, duplicate indicators, extra cost, and a false sense of coverage. This workbook helps security teams answer practical questions:
