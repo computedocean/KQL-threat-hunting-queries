@@ -1,3 +1,4 @@
+```
 // ================================================
 // TIFCE Pillar 2: Environmental Relevance
 // Query 1: XDR Device + Email telemetry only
@@ -154,3 +155,4 @@ ActiveIOCs
     RelevancePct,
     NotFoundPct,
     EnvironmentalRelevanceScore;
+```
