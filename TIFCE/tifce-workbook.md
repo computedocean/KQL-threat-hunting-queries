@@ -1,4 +1,3 @@
-```
 {
     "version": "Notebook/1.0",
     "items": [
@@ -562,4 +561,3 @@
         "ownerId": "{Workspace}"
     }
 }
-```

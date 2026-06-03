@@ -1,0 +1,12 @@
+﻿{
+    "$schema":  "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion":  "1.0.0.0",
+    "parameters":  {
+                       "workspaceResourceId":  {
+                                                   "value":  "/subscriptions/\u003csubscriptionId\u003e/resourceGroups/\u003cresourceGroupName\u003e/providers/Microsoft.OperationalInsights/workspaces/\u003cworkspaceName\u003e"
+                                               },
+                       "workbookDisplayName":  {
+                                                   "value":  "TIFCE (TI Feed Content Evaluation)"
+                                               }
+                   }
+}
