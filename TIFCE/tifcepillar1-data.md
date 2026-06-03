@@ -1,3 +1,4 @@
+```
 // ================================================
 // TIFCE Pillar 1: Originality Score (Uniqueness)
 // ================================================
@@ -58,3 +59,4 @@ ActiveIndicators
     AvgOriginalityPerIOC,
     OriginalityPct,
     ExclusiveIOCs
+```
